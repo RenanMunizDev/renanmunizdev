@@ -1,6 +1,6 @@
 # Olá, eu sou o Renan Muniz 👋
 
-💻 Desenvolvedor .NET com +13 anos de experiência  
+💻 Desenvolvedor .NET com +12 anos de experiência  
 📦 Docker | 🐘 PostgreSQL | ⚙️ CI/CD | 📱 REST APIs | 💬 RabbitMQ  
 🌐 Explorando também React e Angular para Fullstack  
 🔍 Em busca de novos desafios e oportunidades remotas  
