@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou o Renan Muniz 👋
 
-<!--
-**RenanMunizDev/renanmunizdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor .NET com +13 anos de experiência  
+📦 Docker | 🐘 PostgreSQL | ⚙️ CI/CD | 📱 REST APIs | 💬 RabbitMQ  
+🌐 Explorando também React e Angular para Fullstack  
+🔍 Em busca de novos desafios e oportunidades remotas  
 
-Here are some ideas to get you started:
+## 🔧 Tecnologias que domino
+- .NET (C#, VB.NET)
+- SQL Server, PostgreSQL
+- Docker, GitHub Actions
+- APIs RESTful
+- Scrum, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projetos em destaque
+- [MonitorarTarefas](https://github.com/RenanMunizDev/MonitorarTarefas)
+- [Projeto Filmes (CI/CD Docker)](https://github.com/RenanMunizDev/projeto-filmes)
+
+## 📫 Como me encontrar
+- LinkedIn: [linkedin.com/in/renanmunizdev](https://linkedin.com/in/renanmuniz86)
+- GitHub: [@RenanMunizDev](https://github.com/RenanMunizDev)
