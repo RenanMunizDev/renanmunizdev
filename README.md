@@ -36,10 +36,10 @@
 
 ### 📌 Projetos em destaque
 
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| [Projeto Filmes](https://github.com/RenanMunizDev/projeto-filmes) | Frontend em Angular e Backend em .NET para gerenciamento de filmes | `.NET 8`, `EF Core`, `Angular`, `Docker`, `MySQL` |
-| [Teste_.NET](https://github.com/RenanMunizDev/Teste_.NET) | API RESTful com Clean Architecture e Docker, para desafio técnico | `.NET 9`, `MySQL`, `Swagger`, `CI/CD`, `Docker` |
+| Projeto | Descrição | Status | Tecnologias |
+|--------|-----------|--------|-------------|
+| [Projeto Filmes](https://github.com/RenanMunizDev/projeto-filmes) | Frontend Angular + API REST com Docker | ![Status](https://img.shields.io/badge/em%20desenvolvimento-yellow) | `.NET 8`, `Angular`, `Docker`, `MySQL` |
+| [Teste_.NET](https://github.com/RenanMunizDev/Teste_.NET) | API RESTful com Clean Architecture | ![Status](https://img.shields.io/badge/finalizado-brightgreen) | `.NET 9`, `Swagger`, `MySQL`, `CI/CD` |
 
 ---
 
