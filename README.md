@@ -5,18 +5,18 @@
 <h1 align="center">Olá! Eu sou o Renan 👋</h1>
 
 <p align="center">
-  <i>Desenvolvedor Backend Sênior apaixonado por construir soluções robustas com .NET, APIs RESTful e DevOps</i>
+  <i>Desenvolvedor Backend apaixonado por construir soluções robustas com .NET, APIs RESTful e DevOps</i>
 </p>
 
 ---
 
 ### 💻 Sobre mim
 
-- 🔧 12+ anos de experiência em desenvolvimento de sistemas
-- 📍 Rio de Janeiro - BR (disponível para remoto e presencial)
-- 👨‍💻 Foco em Backend com .NET, C#, SQL Server e microsserviços
-- 🚀 Explorando Cloud (Azure), RabbitMQ, Docker, CI/CD e arquitetura de software
-- 🤝 Já atuei com atendimento a chamados, produção, melhorias contínuas e Scrum
+👨‍💻 Desenvolvedor com mais de 12 anos de estrada, apaixonado por backend, qualidade de código e boas práticas.  
+📍 Rio de Janeiro — disponível para oportunidades presenciais, híbridas ou 100% remotas.  
+🛠️ Stacks principais: .NET, C#, SQL Server, EF Core, RabbitMQ, Docker, GitHub Actions  
+☁️ Explorando DevOps moderno com CI/CD, Docker e Cloud (Azure).  
+💬 Forte vivência com squads ágeis, atendimento de produção e melhorias contínuas.
 
 ---
 
@@ -45,9 +45,8 @@
 
 ### 📫 Como me encontrar
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/renanmunizdev)
-- 📬 renanmuniz.dev@gmail.com
-- 🐙 Aqui mesmo no GitHub: @RenanMunizDev
+- 💼 [LinkedIn](https://www.linkedin.com/in/renanmuniz86)
+- 📬 renanmuniz@gmail.com
 
 ---
 
