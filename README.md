@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RenanMunizDev/RenanMunizDev/main/banner.png" alt="Renan Muniz Banner" />
+</p>
+
 <h1 align="center">Olá! Eu sou o Renan 👋</h1>
 
 <p align="center">
@@ -8,7 +12,7 @@
 
 ### 💻 Sobre mim
 
-- 🔧 13+ anos de experiência em desenvolvimento de sistemas
+- 🔧 12+ anos de experiência em desenvolvimento de sistemas
 - 📍 Rio de Janeiro - BR (disponível para remoto e presencial)
 - 👨‍💻 Foco em Backend com .NET, C#, SQL Server e microsserviços
 - 🚀 Explorando Cloud (Azure), RabbitMQ, Docker, CI/CD e arquitetura de software
