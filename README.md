@@ -38,8 +38,8 @@
 
 | Projeto | Descrição | Status | Tecnologias |
 |--------|-----------|--------|-------------|
-| [Projeto Filmes](https://github.com/RenanMunizDev/projeto-filmes) | Frontend Angular + API REST com Docker | ![Status](https://img.shields.io/badge/em%20desenvolvimento-yellow) | `.NET 8`, `Angular`, `Docker`, `MySQL` |
-| [Teste_.NET](https://github.com/RenanMunizDev/Teste_.NET) | API RESTful com Clean Architecture | ![Status](https://img.shields.io/badge/finalizado-brightgreen) | `.NET 9`, `Swagger`, `MySQL`, `CI/CD` |
+| [Projeto Banco Digital](https://github.com/RenanMunizDev/BankMore) | API REST com Docker | ![Status](https://img.shields.io/badge/em%20desenvolvimento-yellow) | `.NET 8`, `JWT`, `Docker`, `SQLite` |
+| [PedidoExress](https://github.com/RenanMunizDev/PedidoExpress) | API RESTful com Clean Architecture | ![Status](https://img.shields.io/badge/finalizado-brightgreen) | `.NET 8`, `Swagger`, `RabbitMQ`, `CI/CD` |
 
 ---
 
