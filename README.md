@@ -13,7 +13,7 @@
 ### 💻 Sobre mim
 
 👨‍💻 Desenvolvedor com mais de 12 anos de estrada, apaixonado por backend, qualidade de código e boas práticas.  
-📍 Rio de Janeiro — disponível para oportunidades presenciais, híbridas ou 100% remotas.  
+📍 Rio de Janeiro — disponível para oportunidades 100% remotas.  
 🛠️ Stacks principais: .NET, C#, SQL Server, EF Core, RabbitMQ, Docker, GitHub Actions  
 ☁️ Explorando DevOps moderno com CI/CD, Docker e Cloud (Azure).  
 💬 Forte vivência com squads ágeis, atendimento de produção e melhorias contínuas.
